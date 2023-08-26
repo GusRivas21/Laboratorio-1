@@ -1,0 +1,3 @@
+Nombre : "Gustavo Emanuel Rivas Avalos"
+Carnet : "U20230321"
+Repositorio : https://github.com/GusRivas21/Laboratorio-1.git

@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+}
+
+h1 , p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+}
+
+div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+img{
+    border-radius: 15px;
+}
